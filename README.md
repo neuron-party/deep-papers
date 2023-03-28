@@ -30,6 +30,13 @@
 `CycleGAN`: https://arxiv.org/abs/1703.10593 <br>
 `Conditional GANs`: https://arxiv.org/abs/1411.1784 <br>
 
+### NLP
+`Unsupervised Pretraining for Seq2Seq`: https://arxiv.org/pdf/1611.02683.pdf <br>
+`Generative Pretraining`: https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf <br>
+`LLaMa`: https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=Ofh5GWrGTG0AX9TOcQ6&_nc_ht=scontent-lax3-1.xx&oh=00_AfCn7gapHHtb2NNY07BpFS5Zu6i36OvKNL5X-B0swbvSFw&oe=64275CA2 <br>
+
+`Seq2Seq`: https://arxiv.org/pdf/1409.3215.pdf
+
 
 ### Other
 `Neural Style Transfer`: https://arxiv.org/abs/1508.06576 <br>
